@@ -1,0 +1,5 @@
+.nav-bar { background-color: #a8bef5; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); }
+ 	.nav-bar ul { list-style: none; margin: 0; padding: 0; display: flex; justify-content: space-between; }
+ 	.nav-bar li { margin-right: 20px; }
+ 	.nav-bar a { color: #000000; padding: 10px; text-decoration: none; }
+ 	.nav-bar a:hover { color: #8a7878; } 
